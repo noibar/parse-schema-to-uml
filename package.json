@@ -1,0 +1,24 @@
+{
+  "name": "parse-schema-to-uml",
+  "version": "1.0.0",
+  "description": "Converting Parse Server schema to a PlantUml diagram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "parse-server",
+    "plant-uml",
+    "uml"
+  ],
+  "author": "Noi Bar",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "commander": "^6.2.0",
+    "esm": "^3.2.25"
+  },
+  "engines": {
+    "node": ">=13.0.0"
+  }
+}
